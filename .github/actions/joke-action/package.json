@@ -8,5 +8,9 @@
   "keywords": [],
   "author": "Paul Pottorff",
   "license": "MIT",
-  "description": "This action connects to a TLS server and returns the certificate information"
+  "description": "This action connects to a TLS server and returns the certificate information",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
 }
