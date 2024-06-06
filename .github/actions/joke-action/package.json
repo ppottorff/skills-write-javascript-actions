@@ -1,0 +1,12 @@
+{
+  "name": "joke-action",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Paul Pottorff",
+  "license": "MIT",
+  "description": "This action connects to a TLS server and returns the certificate information"
+}
